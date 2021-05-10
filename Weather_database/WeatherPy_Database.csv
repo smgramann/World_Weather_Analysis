@@ -1,0 +1,670 @@
+City,Country,Max Temp,Humidity,Cloudiness,Wind Speed,Lat,Lng,Current Description
+Cidreira,BR,70.57,62,0,11.86,-30.1811,-50.2056,few clouds
+Tiksi,RU,19.24,99,100,2.06,71.6872,128.8694,few clouds
+Carnarvon,AU,68.0,73,100,9.22,-24.8667,113.6333,few clouds
+Lappeenranta,FI,36.0,48,0,2.3,61.0587,28.1887,few clouds
+Nikolskoye,RU,41.0,60,20,6.71,59.7035,30.7861,few clouds
+Zbarazh,UA,55.78,88,70,6.26,49.6636,25.7762,few clouds
+Klaksvik,FO,37.4,87,20,1.14,62.2266,-6.589,few clouds
+Boshnyakovo,RU,31.77,88,100,9.6,49.6333,142.1667,few clouds
+Karratha,AU,79.47,59,6,5.41,-20.7377,116.8463,few clouds
+Hilo,US,77.0,65,40,3.44,19.7297,-155.09,few clouds
+Khatanga,RU,18.16,99,83,2.28,71.9667,102.5,few clouds
+Ulaanbaatar,MN,46.4,19,40,26.84,47.9077,106.8832,few clouds
+Tiarei,PF,84.2,65,40,8.05,-17.5333,-149.3333,few clouds
+Nhulunbuy,AU,75.2,88,40,3.44,-12.2333,136.7667,few clouds
+Busselton,AU,55.99,96,14,3.15,-33.65,115.3333,few clouds
+Batagay,RU,28.29,86,100,3.62,67.6333,134.6333,few clouds
+Punta Arenas,CL,44.6,76,40,8.05,-53.15,-70.9167,few clouds
+Jamestown,US,59.0,26,1,13.8,42.097,-79.2353,few clouds
+Lusambo,CD,71.44,96,100,2.53,-4.9667,23.45,few clouds
+Saint-Pierre,RE,75.2,78,0,5.75,-21.3393,55.4781,few clouds
+Ushuaia,AR,44.6,70,20,3.44,-54.8,-68.3,few clouds
+Tessalit,ML,94.14,17,18,11.7,20.1986,1.0114,few clouds
+Avarua,CK,78.8,78,75,9.22,-21.2078,-159.775,few clouds
+Oranjestad,AW,84.2,70,75,14.97,12.524,-70.027,few clouds
+Ghanzi,BW,65.32,24,0,8.32,-21.5667,21.7833,few clouds
+Broome,US,55.99,35,1,9.22,42.2506,-75.833,few clouds
+Hithadhoo,MV,84.38,69,81,5.48,-0.6,73.0833,few clouds
+Pevek,RU,9.0,94,100,8.48,69.7008,170.3133,few clouds
+Ilulissat,GL,46.4,34,1,10.36,69.2167,-51.1,few clouds
+Fort Nelson,CA,48.2,53,75,10.36,58.8053,-122.7002,few clouds
+Bambous Virieux,MU,75.0,94,20,4.61,-20.3428,57.7575,few clouds
+Puerto Ayora,EC,82.4,65,40,20.71,-0.7393,-90.3518,few clouds
+Fukuchiyama,JP,55.0,81,9,1.99,35.3,135.1167,few clouds
+Rikitea,PF,76.21,80,98,12.91,-23.1203,-134.9692,few clouds
+Mehamn,NO,33.39,82,100,16.02,71.0357,27.8492,few clouds
+Aswan,EG,92.05,11,0,10.58,24.0934,32.907,few clouds
+Danjiangkou,CN,64.35,63,11,4.56,32.5428,111.5086,few clouds
+Masoko,TZ,66.94,96,92,2.55,-9.3333,33.75,few clouds
+Bell Ville,AR,78.01,46,0,5.01,-32.6259,-62.6887,few clouds
+Yangambi,CD,69.48,99,99,2.1,0.8102,24.4336,few clouds
+Bundi,IN,87.3,25,85,6.87,25.4417,75.6417,few clouds
+Tasiilaq,GL,28.4,86,90,2.3,65.6145,-37.6368,few clouds
+Hobart,AU,57.2,62,100,10.36,-42.8794,147.3294,few clouds
+Hermanus,ZA,59.0,76,98,9.95,-34.4187,19.2345,few clouds
+Bredasdorp,ZA,50.0,93,100,2.3,-34.5322,20.0403,few clouds
+Prince Rupert,CA,48.2,81,90,6.91,54.3161,-130.3201,few clouds
+Lubao,PH,80.6,83,75,4.61,14.9167,120.55,few clouds
+Katsuura,JP,64.0,78,0,15.99,35.1333,140.3,few clouds
+Shagamu,NG,86.0,74,20,9.22,6.8432,3.6478,few clouds
+Marawi,PH,75.0,90,8,5.99,7.9986,124.2928,few clouds
+Kerteminde,DK,46.0,47,99,7.0,55.449,10.6577,few clouds
+Tsaratanana,MG,74.23,81,5,6.29,-16.7833,47.65,few clouds
+Maceio,BR,80.6,69,40,10.36,-9.6658,-35.7353,few clouds
+Qaanaaq,GL,34.93,71,76,3.47,77.484,-69.3632,few clouds
+Vostok,RU,29.41,91,11,2.21,46.4856,135.8833,few clouds
+Airai,TL,56.08,87,83,3.02,-8.9266,125.4092,few clouds
+Albany,US,55.99,33,7,12.1,42.6001,-73.9662,few clouds
+Leningradskiy,RU,15.12,87,100,21.14,69.3833,178.4167,few clouds
+Narsaq,GL,50.0,22,6,34.52,60.9167,-46.05,few clouds
+Guerrero Negro,MX,75.0,50,12,12.84,27.9769,-114.0611,few clouds
+Ust-Barguzin,RU,33.91,94,100,5.77,53.45,108.9833,few clouds
+Half Moon Bay,US,66.99,100,90,16.11,37.4636,-122.4286,few clouds
+Ransang,PH,78.98,83,15,3.04,8.9603,117.5828,few clouds
+Zhigansk,RU,28.06,98,100,8.19,66.7697,123.3711,few clouds
+Arraial Do Cabo,BR,73.4,73,75,5.75,-22.9661,-42.0278,few clouds
+Cape Town,ZA,61.0,82,0,8.05,-33.9258,18.4232,few clouds
+Kapaa,US,78.8,73,20,12.66,22.0752,-159.319,few clouds
+Longyearbyen,SJ,19.4,63,20,12.66,78.2186,15.6401,few clouds
+Bluff,NZ,48.0,86,15,5.01,-46.6,168.3333,few clouds
+Santa Cruz Del Sur,CU,85.82,54,100,12.73,20.7147,-77.9956,few clouds
+Siljan,NO,46.0,77,35,3.11,59.2884,9.71,few clouds
+Kanigoro,ID,73.02,93,73,2.64,-8.13,112.219,few clouds
+Grootfontein,NA,66.2,72,66,2.3,-19.5667,18.1167,few clouds
+Mandalgovi,MN,45.54,30,98,18.57,45.7625,106.2708,few clouds
+Rasra,IN,87.3,32,6,10.98,25.85,83.85,few clouds
+Georgetown,MY,78.8,89,40,4.61,5.4112,100.3354,few clouds
+Hay River,CA,26.6,86,100,10.36,60.8156,-115.7999,few clouds
+Shelburne,CA,59.0,34,98,18.14,44.0787,-80.2041,few clouds
+Faanui,PF,80.62,68,11,3.44,-16.4833,-151.75,few clouds
+Praia,CV,73.4,68,20,23.02,14.9215,-23.5087,few clouds
+Joshimath,IN,57.94,61,90,6.96,30.5667,79.5667,few clouds
+Santa Marta,CO,93.0,54,17,1.99,11.2408,-74.199,few clouds
+Vila Velha,BR,77.0,65,40,9.22,-20.3297,-40.2925,few clouds
+Clyde River,CA,19.4,100,75,2.42,70.4692,-68.5914,few clouds
+Aasiaat,GL,34.84,73,22,8.9,68.7098,-52.8699,few clouds
+Svetlogorsk,BY,48.72,79,100,5.46,52.6333,29.7333,few clouds
+Hofn,IS,38.14,67,100,17.05,64.2539,-15.2082,few clouds
+Atuona,PF,78.66,73,0,9.46,-9.8,-139.0333,few clouds
+Krasavino,RU,33.51,65,0,6.38,60.9614,46.4814,few clouds
+Kloulklubed,PW,78.8,89,90,9.22,7.0419,134.2556,few clouds
+Warmbad,NA,64.31,25,0,11.5,-28.45,18.7333,few clouds
+Dikson,RU,23.45,92,100,5.21,73.5069,80.5464,few clouds
+Chokurdakh,RU,0.81,99,95,3.83,70.6333,147.9167,few clouds
+Puerto Escondido,MX,86.0,70,40,8.05,15.85,-97.0667,few clouds
+Mataura,NZ,48.0,86,5,5.01,-46.1927,168.8643,few clouds
+Berlevag,NO,33.26,86,100,21.77,70.8578,29.0864,few clouds
+New Norfolk,AU,54.0,61,100,2.86,-42.7826,147.0587,few clouds
+Castro,BR,68.52,68,91,2.08,-24.7911,-50.0119,few clouds
+Voyvozh,RU,32.7,91,9,8.77,62.892,54.9635,few clouds
+Lebu,CL,54.97,93,100,12.33,-37.6167,-73.65,few clouds
+Owando,CG,72.68,95,100,2.37,-0.4819,15.8999,few clouds
+Kavaratti,IN,85.51,71,11,5.93,10.5669,72.642,few clouds
+Adrar,MR,90.75,19,21,14.58,20.5022,-10.0711,few clouds
+Quatre Cocos,MU,75.0,94,20,4.61,-20.2078,57.7625,few clouds
+Nanortalik,GL,41.04,54,9,12.68,60.1432,-45.2371,few clouds
+Provideniya,RU,23.4,60,25,5.48,64.3833,-173.3,few clouds
+Broken Hill,AU,59.0,51,0,9.22,-31.95,141.4333,few clouds
+Hilton Head Island,US,75.0,49,1,8.05,32.2163,-80.7526,few clouds
+Iwanai,JP,39.69,82,100,7.31,42.9744,140.5089,few clouds
+Bridlington,GB,44.6,65,75,5.75,54.0831,-0.1919,few clouds
+Saldanha,ZA,60.8,55,0,5.75,-33.0117,17.9442,few clouds
+San Angelo,US,66.99,88,90,6.91,31.4638,-100.437,few clouds
+Samarai,PG,79.95,81,48,10.36,-10.6167,150.6667,few clouds
+Anchorage,US,43.0,39,1,4.61,61.2181,-149.9003,few clouds
+Cayenne,GF,86.0,66,0,13.8,4.9333,-52.3333,few clouds
+Butaritari,KI,82.63,76,99,11.81,3.0707,172.7902,few clouds
+Road Town,VG,84.2,65,40,11.5,18.4167,-64.6167,few clouds
+San Patricio,US,77.0,94,90,16.11,28.017,-97.5169,few clouds
+Yellowknife,CA,28.99,63,20,10.36,62.456,-114.3525,few clouds
+Amapa,BR,75.06,97,100,3.65,1.0,-52.0,few clouds
+Sambava,MG,77.43,85,14,6.69,-14.2667,50.1667,few clouds
+La Libertad,EC,82.4,65,0,9.22,-2.2333,-80.9,few clouds
+Chapais,CA,42.8,36,1,13.8,49.7834,-74.8492,few clouds
+Herat,AF,71.6,49,75,3.44,34.5,62.0,few clouds
+La Asuncion,VE,95.0,49,99,18.41,11.0333,-63.8628,few clouds
+Biak,ID,76.42,85,93,4.34,-0.9131,122.8766,few clouds
+Sisimiut,GL,38.08,72,4,4.99,66.9395,-53.6735,few clouds
+Hovd,MN,43.47,29,1,6.06,48.0056,91.6419,few clouds
+Riyadh,SA,89.6,12,0,6.91,24.6877,46.7219,few clouds
+Buala,SB,78.94,79,100,0.85,-8.145,159.5921,few clouds
+Santarem,BR,84.2,79,75,10.36,-2.4431,-54.7083,few clouds
+Yar-Sale,RU,21.6,93,100,12.39,66.8333,70.8333,few clouds
+Port Hardy,CA,50.0,76,75,5.75,50.6996,-127.4199,few clouds
+Nadigaon,IN,93.22,18,99,7.65,26.1167,79.0333,few clouds
+Kaitangata,NZ,48.99,67,0,5.99,-46.2817,169.8464,few clouds
+Waingapu,ID,77.85,82,35,8.68,-9.6567,120.2641,few clouds
+Burns Lake,CA,50.0,50,21,8.05,54.2331,-125.7533,few clouds
+Port Blair,IN,82.98,75,100,4.41,11.6667,92.75,few clouds
+Fortuna,US,54.0,100,75,14.97,40.5982,-124.1573,few clouds
+Egvekinot,RU,16.21,78,100,2.51,66.3167,-179.1667,few clouds
+Tchollire,CM,91.06,28,56,3.02,8.4022,14.1698,few clouds
+Chapar,IN,78.33,50,50,0.98,26.2667,90.4667,few clouds
+Solnechnyy,RU,32.18,92,100,7.83,50.7214,136.6319,few clouds
+Gazanjyk,TM,75.79,31,68,13.91,39.2446,55.5154,few clouds
+Krasnoselkup,RU,25.79,95,27,8.16,65.7,82.4667,few clouds
+Vao,NC,74.3,74,100,27.2,-22.6667,167.4833,few clouds
+Ust-Tsilma,RU,35.58,76,100,12.08,65.441,52.1498,few clouds
+Kruisfontein,ZA,53.01,85,0,2.28,-34.0033,24.7314,few clouds
+Taga,RO,68.0,77,75,1.83,46.95,24.05,few clouds
+Severo-Kurilsk,RU,35.74,97,100,22.84,50.6789,156.125,few clouds
+Alofi,NU,73.4,100,4,1.14,-19.0595,-169.9187,few clouds
+Cherskiy,RU,4.71,94,48,2.3,68.75,161.3,few clouds
+Thompson,CA,21.2,86,90,9.22,55.7435,-97.8558,few clouds
+Ketchikan,US,48.2,93,90,6.91,55.3422,-131.6461,few clouds
+Fairbanks,US,37.0,51,90,4.61,64.8378,-147.7164,few clouds
+Codrington,AU,59.4,76,100,10.09,-38.2667,141.9667,few clouds
+Kyzyl-Suu,KG,49.12,73,100,4.29,42.3414,78.0056,few clouds
+Touros,BR,84.2,61,20,13.8,-5.1989,-35.4608,few clouds
+Yumen,CN,62.83,31,98,15.26,40.2833,97.2,few clouds
+Chuy,UY,73.09,55,4,5.39,-33.6971,-53.4616,few clouds
+Grindavik,IS,44.6,49,40,12.66,63.8424,-22.4338,few clouds
+Hamilton,US,69.01,34,1,13.8,39.1834,-84.5333,few clouds
+Sangamner,IN,81.21,45,14,5.21,19.5667,74.2167,few clouds
+Yinchuan,CN,67.14,25,100,5.14,38.4681,106.2731,few clouds
+Debre Birhan,ET,53.62,87,100,4.43,9.6833,39.5333,few clouds
+Falmouth,GB,50.0,57,20,8.97,50.1544,-5.0711,few clouds
+Erenhot,CN,44.73,23,87,18.28,43.6475,111.9767,few clouds
+Boralday,KZ,46.4,93,40,2.24,43.3578,76.8594,few clouds
+Port-Gentil,GA,84.2,79,20,6.91,-0.7193,8.7815,few clouds
+Talaya,RU,26.58,95,100,1.28,61.3833,152.75,few clouds
+Saskylakh,RU,29.98,97,100,2.33,71.9167,114.0833,few clouds
+Wilmington Island,US,77.0,44,20,12.66,32.0036,-80.9737,few clouds
+Port Alfred,ZA,61.95,68,0,3.38,-33.5906,26.891,few clouds
+Hinton,CA,46.4,39,100,8.05,53.4001,-117.5857,few clouds
+Nara,JP,57.99,70,30,5.99,34.6851,135.8049,few clouds
+Maksatikha,RU,37.94,80,72,3.91,57.797,35.8825,few clouds
+Mahebourg,MU,73.4,94,20,4.61,-20.4081,57.7,few clouds
+Tuatapere,NZ,48.0,86,0,5.01,-46.1333,167.6833,few clouds
+Ostrovnoy,RU,25.93,77,100,14.61,68.0531,39.5131,few clouds
+Boende,CD,71.01,98,94,3.09,-0.2167,20.8667,few clouds
+Sao Filipe,CV,72.79,74,1,11.88,14.8961,-24.4956,few clouds
+Flin Flon,CA,51.8,50,20,9.22,54.7682,-101.865,few clouds
+San Cristobal,VE,86.0,58,40,6.91,7.7669,-72.225,few clouds
+Yerbogachen,RU,26.42,98,100,2.86,61.2767,108.0108,few clouds
+Mar Del Plata,AR,72.0,49,0,14.97,-38.0023,-57.5575,few clouds
+Vaini,TO,75.2,83,75,13.8,-21.2,-175.2,few clouds
+Tuktoyaktuk,CA,14.0,92,90,8.05,69.4541,-133.0374,few clouds
+Maumere,ID,79.0,79,100,2.35,-8.6199,122.2111,few clouds
+Brekstad,NO,41.0,65,20,8.05,63.687,9.6654,few clouds
+Mirador,BR,86.83,58,24,3.56,-6.3708,-44.3631,few clouds
+Nioro,GM,96.49,20,3,10.22,13.35,-15.75,few clouds
+Bengkulu,ID,75.51,89,85,4.52,-3.8004,102.2655,few clouds
+Saint-Philippe,RE,75.2,78,0,5.75,-21.3585,55.7679,few clouds
+Arlit,NE,94.05,4,0,6.42,18.7369,7.3853,few clouds
+Nakasongola,UG,66.94,88,84,5.39,1.3089,32.4564,few clouds
+Linxia,CN,58.87,43,100,3.36,35.6003,103.2064,few clouds
+Barrow,US,21.2,86,90,9.22,71.2906,-156.7887,few clouds
+Camana,PE,70.74,71,100,9.62,-16.6228,-72.7111,few clouds
+Pitsunda,GE,53.6,94,1,4.47,43.1592,40.3378,few clouds
+Ahipara,NZ,54.27,78,0,7.45,-35.1667,173.1667,few clouds
+Ilovlya,RU,57.2,88,0,6.71,49.3033,43.9796,few clouds
+Dunedin,NZ,47.57,51,5,6.91,-45.8742,170.5036,few clouds
+Qui Nhon,VN,76.84,88,7,4.29,13.7667,109.2333,few clouds
+Tokur,RU,25.11,96,100,4.34,53.1333,132.9,few clouds
+Husavik,IS,35.6,69,75,14.97,66.0449,-17.3389,few clouds
+Coihaique,CL,50.0,71,75,4.61,-45.5752,-72.0662,few clouds
+Okhotsk,RU,31.44,88,99,0.72,59.3833,143.3,few clouds
+Belawan,ID,77.0,94,40,3.44,3.7755,98.6832,few clouds
+Wanning,CN,77.9,88,14,5.64,18.8003,110.3967,few clouds
+Grimshaw,CA,51.8,43,75,5.75,56.1834,-117.6027,few clouds
+San Quintin,MX,68.27,65,100,15.77,30.4833,-115.95,few clouds
+Saint-Joseph,RE,75.2,78,0,5.75,-21.3667,55.6167,few clouds
+Antofagasta,CL,71.01,68,0,13.8,-23.65,-70.4,few clouds
+Upernavik,GL,33.12,76,15,4.14,72.7868,-56.1549,few clouds
+Pahrump,US,86.0,15,100,5.01,36.2083,-115.9839,few clouds
+Namatanai,PG,78.67,81,36,2.62,-3.6667,152.4333,few clouds
+Morant Bay,JM,86.0,66,20,19.57,17.8815,-76.4093,few clouds
+Ponta Do Sol,PT,63.0,61,57,3.0,32.6667,-17.1,few clouds
+Bonavista,CA,46.4,87,46,10.36,48.6499,-53.1147,few clouds
+Kidal,ML,96.48,10,0,6.73,18.4411,1.4078,few clouds
+Novouzensk,RU,57.16,73,90,6.76,50.4592,48.1431,few clouds
+Foam Lake,CA,66.2,22,27,4.61,51.65,-103.5343,few clouds
+Tura,IN,71.73,71,14,4.72,25.5198,90.2201,few clouds
+Nanakuli,US,80.6,64,40,12.66,21.3906,-158.1547,few clouds
+Edson,CA,51.8,28,40,19.57,53.5835,-116.4356,few clouds
+Kangaatsiaq,GL,34.21,73,20,14.23,68.3065,-53.4641,few clouds
+Setermoen,NO,30.2,86,90,3.44,68.861,18.3486,few clouds
+Kharitonovo,RU,34.56,67,6,8.52,61.4009,47.4978,few clouds
+Mananjary,MG,75.43,90,36,6.73,-21.2167,48.3333,few clouds
+Tahoua,NE,104.0,5,0,2.3,14.8888,5.2692,few clouds
+Nacozari,MX,88.0,40,0,1.99,25.3366,-108.2574,few clouds
+Roebourne,AU,79.32,53,6,6.2,-20.7833,117.1333,few clouds
+Malayal,PH,80.6,94,90,3.44,7.208,121.942,few clouds
+Kitimat,CA,50.0,79,100,1.99,54.0524,-128.6534,few clouds
+Zambrano,CO,92.25,46,100,0.58,9.7472,-74.8153,few clouds
+Sabzevar,IR,71.37,44,100,18.75,36.2126,57.6819,few clouds
+Goderich,CA,50.0,43,100,16.11,43.7501,-81.7165,few clouds
+Jalu,LY,92.59,9,0,10.04,29.0331,21.5482,few clouds
+Salalah,OM,84.2,84,20,4.61,17.0151,54.0924,few clouds
+Port Maria,JM,84.0,75,78,10.0,18.3685,-76.8895,few clouds
+Constitucion,CL,55.24,94,100,6.02,-35.3333,-72.4167,few clouds
+Pacific Grove,US,60.01,77,90,11.5,36.6177,-121.9166,few clouds
+Hualmay,PE,72.21,73,70,9.89,-11.0964,-77.6139,few clouds
+Bilma,NE,90.48,4,0,5.55,18.6853,12.9164,few clouds
+Ixtapa,MX,82.4,61,1,10.36,20.7,-105.2,few clouds
+Beringovskiy,RU,20.21,87,97,12.64,63.05,179.3167,few clouds
+Batemans Bay,AU,55.99,97,100,1.99,-35.7167,150.1833,few clouds
+Porbandar,IN,83.37,74,75,8.34,21.6422,69.6093,few clouds
+Aldergrove,CA,57.2,67,75,9.22,49.058,-122.4709,few clouds
+Whitianga,NZ,51.42,79,0,2.84,-36.8333,175.7,few clouds
+Ankazoabo,MG,69.57,84,90,7.56,-22.2833,44.5167,few clouds
+Nelson Bay,AU,55.0,100,100,7.83,-32.7167,152.15,few clouds
+Baghdad,IQ,78.8,24,0,4.61,33.3406,44.4009,few clouds
+Sarkand,KZ,46.85,63,100,5.79,45.41,79.9186,few clouds
+Ribeira Grande,PT,62.6,94,75,21.85,38.5167,-28.7,few clouds
+Tarko-Sale,RU,27.0,89,100,4.65,64.9225,77.785,few clouds
+Tahta,EG,90.88,7,0,14.97,26.7693,31.5021,few clouds
+Knokke-Heist,BE,46.4,71,40,12.66,51.3333,3.3333,few clouds
+Kieta,PG,78.21,82,29,2.28,-6.2167,155.6333,few clouds
+Esperance,AU,51.8,82,0,11.5,-33.8667,121.9,few clouds
+Aklavik,CA,23.0,80,90,10.36,68.2191,-135.0107,few clouds
+Maragogi,BR,79.92,79,100,10.22,-9.0122,-35.2225,few clouds
+Jamiltepec,MX,93.0,33,71,9.95,16.2833,-97.8167,few clouds
+Kodiak,US,41.0,75,20,5.75,57.79,-152.4072,few clouds
+Talnakh,RU,12.65,89,54,1.05,69.4865,88.3972,few clouds
+Dingle,PH,76.6,87,6,6.6,10.9995,122.6711,few clouds
+Olga,RU,35.22,95,100,2.66,43.7444,135.2892,few clouds
+Baykit,RU,33.46,95,100,4.38,61.67,96.37,few clouds
+Eyl,SO,84.47,69,87,9.75,7.9803,49.8164,few clouds
+Drinovci,BA,64.4,100,75,5.75,43.355,17.3539,few clouds
+Molagavita,CO,78.8,69,40,10.36,6.6732,-72.8087,few clouds
+Taber,CA,66.2,26,22,11.5,49.8167,-112.1518,few clouds
+East London,ZA,57.2,88,0,6.91,-33.0153,27.9116,few clouds
+Avera,US,78.8,31,1,5.75,33.194,-82.5271,few clouds
+Kattivakkam,IN,86.0,74,20,3.44,13.2167,80.3167,few clouds
+Muros,ES,57.99,48,6,4.0,42.7762,-9.0603,few clouds
+Waipawa,NZ,44.6,87,9,6.91,-41.4122,175.5153,few clouds
+Sakakah,SA,84.2,9,0,9.22,29.9697,40.2064,few clouds
+Zhashkiv,UA,56.62,97,100,9.53,49.2454,30.1102,few clouds
+Necochea,AR,72.0,51,72,5.01,-38.5473,-58.7368,few clouds
+Kirensk,RU,28.08,97,100,2.13,57.7853,108.1119,few clouds
+Lompoc,US,63.0,72,20,19.57,34.6391,-120.4579,few clouds
+Caravelas,BR,77.76,61,77,10.33,-17.7125,-39.2481,few clouds
+Jina,RO,71.6,46,0,8.05,45.7833,23.6833,few clouds
+Tabas,IR,76.73,41,100,4.09,33.5959,56.9244,few clouds
+Kavieng,PG,81.52,76,46,4.0,-2.5744,150.7967,few clouds
+Shirokiy,RU,43.57,58,100,8.16,49.758,129.523,few clouds
+Anito,PH,78.22,87,31,5.17,12.4497,125.2886,few clouds
+Margate,GB,46.0,67,44,1.99,51.3813,1.3862,few clouds
+Hunxe,DE,50.0,63,100,5.99,51.65,6.7833,few clouds
+Hasaki,JP,61.0,94,20,9.22,35.7333,140.8333,few clouds
+Mnogovershinnyy,RU,26.49,97,100,5.5,53.9353,139.9242,few clouds
+Port Lincoln,AU,61.61,69,100,13.78,-34.7333,135.8667,few clouds
+Saint-Denis,FR,51.01,66,0,2.3,48.9167,2.3333,few clouds
+Chumikan,RU,29.25,97,100,8.68,54.7183,135.315,few clouds
+Yeppoon,AU,64.4,88,97,5.75,-23.1333,150.7333,few clouds
+Cabo San Lucas,MX,80.01,65,1,11.5,22.8909,-109.9124,few clouds
+Ardakan,IR,77.0,22,0,4.61,32.31,54.0175,few clouds
+Bethel,US,61.0,31,1,10.36,41.3712,-73.414,few clouds
+Souillac,MU,73.4,94,20,4.61,-20.5167,57.5167,few clouds
+Saint Austell,GB,48.2,61,11,10.36,50.3383,-4.7658,few clouds
+Asyut,EG,88.66,9,1,9.31,27.181,31.1837,few clouds
+Aketi,CD,71.17,88,57,1.48,2.7388,23.7833,few clouds
+Mount Isa,AU,64.4,55,7,1.14,-20.7333,139.5,few clouds
+Conceicao Da Barra,BR,77.27,63,28,10.16,-18.5933,-39.7322,few clouds
+Gornyy,RU,37.99,73,83,3.0,55.1153,83.9059,few clouds
+Berezovyy,RU,29.68,88,88,3.56,51.6667,135.7,few clouds
+Elmvale,CA,57.2,46,97,9.22,44.5834,-79.8664,few clouds
+Bilibino,RU,3.4,85,61,3.4,68.0546,166.4372,few clouds
+Sola,VU,80.6,83,90,9.22,-13.8833,167.55,few clouds
+Port Elizabeth,ZA,57.2,82,0,3.44,-33.918,25.5701,few clouds
+Rawson,AR,67.28,42,100,19.24,-43.3002,-65.1023,few clouds
+Along,IN,66.65,89,100,2.8,28.1667,94.7667,few clouds
+Ucluelet,CA,54.0,62,20,11.5,48.9329,-125.5528,few clouds
+Alyangula,AU,73.4,94,41,4.61,-13.8483,136.4192,few clouds
+Kamogawa,JP,64.4,77,20,13.8,35.1,140.1,few clouds
+Cozumel,MX,89.6,51,40,13.8,20.5083,-86.9458,few clouds
+Sheridan,US,73.4,23,1,3.44,44.8333,-106.9173,few clouds
+Riacho De Santana,BR,78.08,52,99,13.47,-13.6092,-42.9389,few clouds
+Bahia Blanca,AR,73.47,38,100,9.04,-38.7196,-62.2724,few clouds
+Rio Grande,BR,77.0,53,0,13.8,-32.035,-52.0986,few clouds
+Norman Wells,CA,41.0,48,20,5.75,65.282,-126.8329,few clouds
+Bud,US,70.0,32,1,8.05,39.447,-86.1758,few clouds
+Vila Franca Do Campo,PT,60.8,88,75,10.36,37.7167,-25.4333,few clouds
+Shahrud,IR,65.1,54,6,9.4,36.4182,54.9763,few clouds
+Luanda,AO,78.8,83,20,4.61,-8.8368,13.2343,few clouds
+Rosarito,MX,71.6,53,1,10.36,32.3333,-117.0333,few clouds
+Miri,MY,77.0,88,40,6.91,4.4148,114.0089,few clouds
+Mogadishu,SO,83.26,69,66,12.12,2.0371,45.3438,few clouds
+Victoria,HK,79.0,85,95,3.42,22.2855,114.1577,few clouds
+Kandalaksha,RU,26.28,79,62,2.33,67.162,32.4123,few clouds
+Vardo,NO,33.73,79,100,14.38,70.3705,31.1107,few clouds
+San Vicente,AR,78.31,30,80,3.71,-26.6167,-54.1333,few clouds
+Mahuta,TZ,68.95,96,20,1.5,-10.8667,39.45,few clouds
+Santa Rosa,PH,82.4,69,20,4.61,14.3122,121.1114,few clouds
+Lebyazhye,RU,51.26,43,98,16.44,55.2689,66.4947,few clouds
+Torbat-E Jam,IR,69.91,42,100,13.56,35.244,60.6225,few clouds
+Sanchez,DO,89.6,79,20,11.5,19.2281,-69.6137,few clouds
+Namibe,AO,76.35,75,2,3.69,-15.1961,12.1522,few clouds
+Nabire,ID,75.09,92,100,3.44,-3.3667,135.4833,few clouds
+Ballina,AU,68.0,73,75,5.75,-28.8667,153.5667,few clouds
+Ilhabela,BR,72.86,72,100,10.2,-23.7781,-45.3581,few clouds
+Aksu,CN,71.65,23,100,1.16,41.1231,80.2644,few clouds
+Fethiye,TR,66.2,77,0,3.44,36.6217,29.1164,few clouds
+Tikhvin,RU,31.59,87,15,2.35,59.6451,33.5294,few clouds
+Sorland,NO,33.8,93,75,14.97,67.667,12.6934,few clouds
+Laguna,US,75.99,40,1,5.75,38.421,-121.4238,few clouds
+Shurugwi,ZW,55.31,93,100,12.21,-19.6702,30.0059,few clouds
+Nur,PL,44.85,94,100,8.3,52.6683,22.3221,few clouds
+Karoi,ZW,63.43,95,91,7.36,-16.8099,29.6925,few clouds
+Paamiut,GL,39.69,58,14,2.44,61.994,-49.6678,few clouds
+Kiunga,PG,71.98,99,89,1.28,-6.1219,141.2906,few clouds
+San Ramon,US,73.0,49,20,12.66,37.7799,-121.978,few clouds
+San Blas,MX,82.69,48,0,8.86,21.5167,-105.2667,few clouds
+Stokmarknes,NO,36.0,82,100,5.01,68.5646,14.9108,few clouds
+Ugoofaaru,MV,83.52,73,13,5.03,5.6667,73.0,few clouds
+Atar,MR,92.26,13,0,12.53,20.5169,-13.0499,few clouds
+Husainabad,IN,87.08,19,23,2.51,24.5333,84.0167,few clouds
+Gasa,PS,73.4,46,0,3.44,31.5,34.4667,few clouds
+Palmer,US,59.0,33,20,17.27,42.1584,-72.3287,few clouds
+Grand Gaube,MU,75.0,88,3,3.0,-20.0064,57.6608,few clouds
+La Ronge,CA,51.8,58,62,9.22,55.1001,-105.2842,few clouds
+Springdale,US,75.99,31,1,17.27,36.1867,-94.1288,few clouds
+Acarau,BR,82.08,75,94,4.12,-2.8856,-40.12,few clouds
+Meadow Lake,US,78.01,20,75,7.52,34.8014,-106.5436,few clouds
+Udachnyy,RU,31.3,98,100,7.74,66.4167,112.4,few clouds
+Manggar,ID,81.0,81,94,6.06,-2.8833,108.2667,few clouds
+Cockburn Town,TC,80.6,69,40,9.22,21.4612,-71.1419,few clouds
+Coahuayana,MX,82.4,51,40,11.5,18.7333,-103.6833,few clouds
+Honiara,SB,76.55,86,100,3.67,-9.4333,159.95,few clouds
+Ancud,CL,60.01,72,75,16.11,-41.8697,-73.8203,few clouds
+Narrabri,AU,53.01,87,100,2.3,-30.3167,149.7833,few clouds
+Asau,RO,61.0,53,100,3.96,46.4333,26.4,few clouds
+Wamba,NG,88.68,40,21,2.48,8.9333,8.6,few clouds
+Kahului,US,78.8,65,20,19.57,20.8947,-156.47,few clouds
+Lavrentiya,RU,16.56,79,19,3.33,65.5833,-171.0,few clouds
+Matagami,CA,46.4,34,90,17.27,49.7502,-77.6328,few clouds
+Matara,LK,78.67,86,66,2.62,5.9485,80.5353,few clouds
+Ngorongoro,TZ,53.01,92,18,3.62,-3.2397,35.4875,few clouds
+Douentza,ML,98.24,17,46,7.4,14.9951,-2.9517,few clouds
+Puerto Baquerizo Moreno,EC,84.2,65,40,16.11,-0.9,-89.6,few clouds
+Saint-Augustin,CA,37.22,96,100,12.73,51.226,-58.6502,few clouds
+Mecca,SA,87.62,41,100,5.03,21.4267,39.8261,few clouds
+Faya,SA,69.8,23,20,5.75,18.3851,42.4509,few clouds
+Clevelandia,BR,75.52,32,53,4.81,-26.3958,-52.4708,few clouds
+Harper,LR,81.54,78,100,10.92,4.375,-7.7169,few clouds
+Roma,US,51.01,46,1,12.66,43.2128,-75.4557,few clouds
+Aljezur,PT,57.04,63,7,12.01,37.3191,-8.8033,few clouds
+Singaparna,ID,71.42,96,74,1.99,-7.3515,108.111,few clouds
+Regeneracao,BR,88.05,52,93,2.98,-6.2378,-42.6883,few clouds
+Coquimbo,CL,64.4,59,0,12.66,-29.9533,-71.3436,few clouds
+Pangai,TO,78.8,78,40,17.27,-19.8,-174.35,few clouds
+Bonthe,SL,82.65,73,73,11.36,7.5264,-12.505,few clouds
+Hami,CN,63.82,34,100,30.69,42.8,93.45,few clouds
+Saint George,US,89.01,12,1,3.44,37.1041,-113.5841,few clouds
+Melilla,ES,62.6,48,0,13.8,35.2937,-2.9383,few clouds
+Thunder Bay,CA,64.99,34,40,9.22,48.4001,-89.3168,few clouds
+Paducah,US,75.99,35,1,12.66,37.0834,-88.6001,few clouds
+Abu Samrah,SY,71.83,40,0,11.23,35.3029,37.1841,few clouds
+Mount Gambier,AU,64.4,48,81,13.8,-37.8333,140.7667,few clouds
+Miraflores,MX,77.0,31,75,7.96,19.2167,-98.8083,few clouds
+Malanje,AO,65.03,95,98,7.16,-9.5402,16.341,few clouds
+Aykhal,RU,30.61,98,100,5.3,66.0,111.5,few clouds
+Bangassou,CF,71.22,91,35,2.57,4.7413,22.8184,few clouds
+Panguma,SL,81.12,67,98,4.25,8.1833,-11.1333,few clouds
+Robinson,US,75.99,69,75,8.05,31.4677,-97.1147,few clouds
+Jumla,NP,52.12,78,64,2.75,29.2747,82.1838,few clouds
+Deputatskiy,RU,19.56,97,100,2.93,69.3,139.9,few clouds
+Izyum,UA,57.63,77,100,5.19,49.2088,37.2485,few clouds
+Fort Myers Beach,US,87.8,51,1,10.36,26.452,-81.9481,few clouds
+Sernur,RU,41.31,91,57,8.97,56.9333,49.1536,few clouds
+Sun Valley,US,75.0,8,1,12.62,39.5963,-119.776,few clouds
+Alice Springs,AU,53.6,58,6,5.75,-23.7,133.8833,few clouds
+Cervo,ES,55.99,62,3,7.14,43.6702,-7.4101,few clouds
+Poum,NC,75.52,75,100,8.79,-20.2333,164.0167,few clouds
+Puno,PE,60.8,14,0,5.75,-15.8333,-70.0333,few clouds
+Opuwo,NA,73.96,44,76,2.53,-18.0607,13.84,few clouds
+Jamshedpur,IN,83.44,45,22,5.88,22.8,86.1833,few clouds
+San Bartolome De Tirajana,ES,70.0,60,40,20.71,27.9248,-15.5733,few clouds
+Ishigaki,JP,75.79,79,100,4.14,24.3448,124.1572,few clouds
+Luena,AO,63.97,92,100,1.63,-11.7833,19.9167,few clouds
+San Borja,BO,84.34,51,6,4.83,-14.8167,-66.85,few clouds
+Victor Harbor,AU,59.0,84,2,14.32,-35.5667,138.6167,few clouds
+Beloretsk,RU,50.0,37,97,13.42,53.9631,58.3981,few clouds
+Nome,US,23.0,74,90,9.22,64.5011,-165.4064,few clouds
+Shimoda,JP,63.0,85,14,1.01,34.6667,138.95,few clouds
+Kawhia,NZ,42.01,97,0,3.6,-38.0651,174.8183,few clouds
+Dedougou,BF,102.6,15,97,1.54,12.4667,-3.4667,few clouds
+Muhos,FI,32.0,69,0,6.91,64.808,25.9931,few clouds
+Beloha,MG,70.45,77,100,2.3,-25.1667,45.05,few clouds
+Carutapera,BR,81.23,80,79,4.61,-1.195,-46.02,few clouds
+Bay Roberts,CA,50.0,77,100,7.0,47.5999,-53.2648,few clouds
+Fare,PF,80.73,69,100,4.45,-16.7,-151.0167,few clouds
+Oktyabrskiy,RU,56.43,50,100,15.93,54.4815,53.471,few clouds
+Trelleborg,SE,48.2,57,0,6.91,55.3751,13.1569,few clouds
+Dalvik,IS,35.6,69,75,14.97,65.9702,-18.5286,few clouds
+Hobyo,SO,85.14,64,100,13.09,5.3505,48.5268,few clouds
+Comodoro Rivadavia,AR,66.2,30,0,14.97,-45.8667,-67.5,few clouds
+Hisua,IN,87.8,42,0,4.61,24.8333,85.4167,few clouds
+Oistins,BB,84.2,54,20,18.41,13.0667,-59.5333,few clouds
+Jacmel,HT,83.05,64,24,7.05,18.2342,-72.5347,few clouds
+Dordrecht,NL,48.0,75,7,3.0,51.81,4.6736,few clouds
+Ylojarvi,FI,39.2,45,0,5.75,61.5563,23.5961,few clouds
+Iqaluit,CA,39.2,70,90,18.41,63.7506,-68.5145,few clouds
+Salto Del Guaira,PY,81.99,37,84,4.03,-24.0625,-54.3069,few clouds
+Namtsy,RU,35.6,75,40,2.24,62.7161,129.6658,few clouds
+Bardiyah,LY,78.75,37,0,5.86,31.7561,25.0865,few clouds
+Ayr,GB,50.0,71,20,10.36,55.4627,-4.6339,few clouds
+Chimoio,MZ,64.4,100,75,20.71,-19.1164,33.4833,few clouds
+Vengerovo,RU,36.43,74,57,6.64,55.6848,76.7471,few clouds
+Vallenar,CL,77.23,24,99,8.08,-28.5708,-70.7581,few clouds
+Morehead,US,73.4,33,1,9.22,37.2711,-87.1764,few clouds
+Kilindoni,TZ,80.11,82,73,9.33,-7.9139,39.6668,few clouds
+Malaryta,BY,47.84,87,100,12.3,51.7905,24.074,few clouds
+Camacha,PT,64.4,59,40,9.22,33.0833,-16.3333,few clouds
+Salym,RU,37.44,57,92,10.22,60.0625,71.4789,few clouds
+Mangalia,RO,55.4,100,100,6.91,43.8,28.5833,few clouds
+Vrangel,RU,40.15,91,100,1.9,42.7297,133.0839,few clouds
+Hervey Bay,AU,69.01,94,40,6.91,-25.2986,152.8535,few clouds
+Gigmoto,PH,77.74,81,62,4.16,13.7796,124.39,few clouds
+Fonte Boa,BR,81.37,71,40,6.22,-2.4959,-66.2662,few clouds
+Bowen,AU,68.0,88,6,9.22,-20.0167,148.2333,few clouds
+Isangel,VU,77.0,83,75,5.75,-19.55,169.2667,few clouds
+Alekseyevsk,RU,28.27,96,100,2.62,57.8406,108.3492,few clouds
+San Isidro,PE,71.6,73,40,6.91,-12.1167,-77.05,few clouds
+Orchard Homes,US,64.4,29,90,13.8,46.8633,-114.0484,few clouds
+Sumkino,RU,48.56,44,99,14.12,58.1108,68.3244,few clouds
+Lawrenceburg,US,71.6,30,1,10.36,38.0373,-84.8966,few clouds
+Doha,QA,82.99,78,0,4.61,25.2867,51.5333,few clouds
+Halifax,CA,53.01,62,100,11.5,44.6453,-63.5724,few clouds
+Poole,GB,46.0,80,51,6.73,50.7167,-2.0,few clouds
+Gushikawa,JP,66.2,88,1,4.61,26.3544,127.8686,few clouds
+Anloga,GH,84.2,84,20,13.8,5.7947,0.8973,few clouds
+Manzhouli,CN,45.09,45,100,7.78,49.6,117.4333,few clouds
+Ferme-Neuve,CA,48.2,25,100,8.05,46.7001,-75.4493,few clouds
+Boa Vista,BR,87.8,58,75,13.8,2.8197,-60.6733,few clouds
+The Valley,AI,86.0,69,40,14.97,18.217,-63.0578,few clouds
+Newport,GB,51.01,78,92,4.74,51.5877,-2.9984,few clouds
+Finnsnes,NO,30.2,86,90,3.44,69.2296,17.9811,few clouds
+Kazerun,IR,71.01,33,0,1.36,29.6195,51.6541,few clouds
+Kurchum,KZ,43.07,56,24,9.04,48.5722,83.6542,few clouds
+Huarmey,PE,73.29,73,43,11.86,-10.0681,-78.1522,few clouds
+Guane,CU,89.64,45,48,6.78,22.2025,-84.0875,few clouds
+Sinnamary,GF,80.2,85,66,10.49,5.3833,-52.95,few clouds
+Tual,ID,83.25,75,48,15.32,-5.6667,132.75,few clouds
+Le Pont-De-Claix,FR,46.4,93,90,4.61,45.1244,5.7064,few clouds
+Ayabaca,PE,57.76,80,40,5.39,-4.6398,-79.7149,few clouds
+Holoby,UA,54.0,81,74,8.93,51.0865,25.0077,few clouds
+Laramie,US,73.0,17,90,10.36,41.3114,-105.5911,few clouds
+Farafangana,MG,75.27,91,52,9.24,-22.8167,47.8333,few clouds
+Yashkino,RU,37.4,87,0,6.71,55.8736,85.4265,few clouds
+Ajaigarh,IN,93.47,19,99,13.89,24.9,80.2667,few clouds
+Tulum,MX,89.6,51,40,13.8,20.2167,-87.4667,few clouds
+Verkhnevilyuysk,RU,33.49,99,100,4.94,63.4453,120.3167,few clouds
+Areosa,PT,57.99,67,20,13.8,41.7178,-8.8571,few clouds
+Durham,US,72.0,21,20,9.22,36.0335,-78.8664,few clouds
+Lagoa,PT,59.49,88,100,23.11,39.05,-27.9833,few clouds
+Torbay,CA,55.4,67,75,29.93,47.6666,-52.7314,few clouds
+Mishelevka,RU,41.47,82,100,6.46,52.8575,103.1719,few clouds
+De-Kastri,RU,32.52,98,100,9.26,51.4667,140.7833,few clouds
+Sur,OM,81.91,61,5,13.42,22.5667,59.5289,few clouds
+Buenos Aires,AR,78.8,64,0,4.61,-34.6132,-58.3772,few clouds
+Rocha,UY,72.72,65,6,4.81,-34.4833,-54.3333,few clouds
+Najran,SA,82.4,17,40,6.91,17.4924,44.1277,few clouds
+Yulara,AU,55.4,47,28,5.75,-25.2406,130.9889,few clouds
+Hong Gai,VN,77.0,94,0,3.44,20.956,107.0946,few clouds
+Evensk,RU,19.71,84,6,8.61,61.95,159.2333,few clouds
+Tecoanapa,MX,87.3,57,78,12.91,16.5167,-98.75,few clouds
+Piste,MX,96.44,29,62,7.49,20.7,-88.5833,few clouds
+Craig,US,80.6,13,1,14.97,40.5153,-107.5464,few clouds
+Yarada,IN,81.72,83,7,11.16,17.65,83.2667,few clouds
+Zhangye,CN,67.53,16,100,8.3,38.9342,100.4517,few clouds
+Requena,ES,64.0,84,99,8.1,39.4883,-1.1004,few clouds
+Mto Wa Mbu,TZ,69.08,81,98,0.76,-3.35,35.85,few clouds
+Polson,US,64.0,31,93,3.0,47.6936,-114.1632,few clouds
+Inhambane,MZ,69.8,88,40,6.91,-23.865,35.3833,few clouds
+Kapitanivka,UA,58.59,76,79,8.28,48.9172,31.7167,few clouds
+Prince Albert,CA,64.4,32,75,5.75,53.2001,-105.7677,few clouds
+Itarema,BR,81.9,77,89,5.82,-2.9248,-39.9167,few clouds
+Khilok,RU,39.43,95,100,2.04,51.3674,110.4676,few clouds
+Port Hedland,AU,69.8,100,90,5.75,-20.3167,118.5667,few clouds
+Cochrane,CA,53.6,50,75,9.22,51.1834,-114.4687,few clouds
+Rio Gallegos,AR,46.4,66,0,2.3,-51.6226,-69.2181,few clouds
+Kadoma,JP,57.0,47,36,15.23,34.7333,135.5833,few clouds
+Phaltan,IN,82.0,44,71,4.47,17.9833,74.4333,few clouds
+Gamboula,CF,73.51,78,100,4.92,4.1178,15.1393,few clouds
+Bafia,CM,74.34,86,95,3.67,4.75,11.2333,few clouds
+Kulhudhuffushi,MV,84.13,71,17,5.37,6.6221,73.07,few clouds
+Adiake,CI,82.04,79,52,12.37,5.2863,-3.304,few clouds
+Bassila,BJ,93.2,55,75,4.85,9.0081,1.6654,few clouds
+Srednekolymsk,RU,12.38,92,6,6.02,67.45,153.6833,few clouds
+Mayskiy,RU,57.2,77,0,11.18,47.6931,40.1025,few clouds
+Puerto Madryn,AR,67.42,42,100,20.33,-42.7692,-65.0385,few clouds
+Monte Plata,DO,87.8,62,20,11.5,18.807,-69.784,few clouds
+Anadyr,RU,12.2,85,40,6.71,64.75,177.4833,few clouds
+Yunhe,CN,49.59,57,32,7.9,34.0833,119.7167,few clouds
+Ler,SS,82.71,52,100,3.62,8.3018,30.1418,few clouds
+Bandar-E Lengeh,IR,87.8,29,75,11.5,26.5579,54.8807,few clouds
+Yarmouth,US,60.8,48,1,9.22,41.7057,-70.2286,few clouds
+Dudinka,RU,29.7,84,96,6.44,69.4058,86.1778,few clouds
+Pisco,PE,75.2,60,0,10.36,-13.7,-76.2167,few clouds
+Nouadhibou,MR,71.6,68,5,21.85,20.931,-17.0347,few clouds
+Nola,IT,68.0,73,100,1.01,40.922,14.5329,few clouds
+Kobryn,BY,46.33,90,100,13.62,52.2138,24.3564,few clouds
+Kalmunai,LK,80.56,83,100,7.94,7.4167,81.8167,few clouds
+Challapata,BO,53.22,11,26,7.38,-18.9,-66.7667,few clouds
+Imbituba,BR,75.2,60,75,10.36,-28.24,-48.6703,few clouds
+Buin,CL,64.4,55,75,4.61,-33.7333,-70.75,few clouds
+Plettenberg Bay,ZA,57.87,74,0,4.18,-34.0527,23.3716,few clouds
+Santa Lucia,ES,70.0,60,40,20.71,27.9117,-15.5407,few clouds
+Kasama,ZM,62.78,93,100,3.96,-10.2129,31.1808,few clouds
+Macenta,GN,76.32,75,99,2.46,8.5435,-9.471,few clouds
+Weligama,LK,78.94,84,68,1.74,5.9667,80.4167,few clouds
+Jacareacanga,BR,82.06,75,100,2.59,-6.2222,-57.7528,few clouds
+Inirida,CO,80.4,89,80,0.78,3.8653,-67.9239,few clouds
+Magadan,RU,30.22,84,94,6.38,59.5667,150.8,few clouds
+San Jose,US,73.0,59,20,13.8,37.3394,-121.895,few clouds
+Goya,AR,80.8,37,0,8.41,-29.14,-59.2626,few clouds
+Moissala,TD,86.23,43,73,5.57,8.3404,17.7663,few clouds
+College,US,35.6,48,40,4.61,64.8569,-147.8028,few clouds
+Maldonado,UY,73.4,64,40,6.91,-34.6667,-54.9167,few clouds
+Teruel,ES,55.4,66,0,12.66,40.6667,-0.6667,few clouds
+Amalapuram,IN,79.48,87,17,2.53,16.5833,82.0167,few clouds
+San Pedro,PH,82.4,69,20,4.61,14.35,121.0167,few clouds
+Zhuzhou,CN,68.0,94,0,2.24,27.8333,113.15,few clouds
+Zeven,DE,48.99,66,100,1.99,53.3,9.2833,few clouds
+Balikpapan,ID,75.29,90,51,2.68,-1.2675,116.8289,few clouds
+Severo-Yeniseyskiy,RU,30.25,94,100,9.35,60.3725,93.0408,few clouds
+Obra,IN,88.52,16,97,2.73,24.4167,82.9833,few clouds
+Sosnovo,RU,37.99,57,77,3.04,60.5514,30.2144,few clouds
+Canico,PT,64.4,63,40,10.36,32.6333,-16.85,few clouds
+Tateyama,JP,64.0,78,0,15.99,34.9833,139.8667,few clouds
+Tomatlan,MX,92.08,29,0,12.12,19.9333,-105.25,few clouds
+Savannah Bight,HN,89.6,58,20,9.22,16.45,-85.85,few clouds
+Soyo,AO,78.06,82,100,9.19,-6.1349,12.3689,few clouds
+Eureka,US,60.01,87,40,11.01,40.8021,-124.1637,few clouds
+Pec,XK,68.0,52,75,4.81,42.6591,20.2883,few clouds
+Champerico,GT,89.6,58,40,9.22,14.3,-91.9167,few clouds
+Te Anau,NZ,39.18,87,16,0.98,-45.4167,167.7167,few clouds
+Severnoye,RU,34.48,86,12,6.15,56.3491,78.3619,few clouds
+Kondopoga,RU,35.6,41,6,6.71,62.2057,34.2614,few clouds
+Bereda,ES,50.0,72,56,10.0,43.2686,-7.5406,few clouds
+Jimo,CN,41.0,81,0,4.47,36.3897,120.4622,few clouds
+Lorengau,PG,79.5,82,96,1.48,-2.0226,147.2712,few clouds
+Cap Malheureux,MU,75.0,88,2,3.0,-19.9842,57.6142,few clouds
+Magdalena,PH,81.0,77,7,5.01,14.1999,121.429,few clouds
+Banda Aceh,ID,80.69,78,62,7.83,5.5577,95.3222,few clouds
+Lichinga,MZ,60.57,96,16,5.37,-13.3128,35.2406,few clouds
+Garelochhead,GB,48.99,71,69,3.44,56.082,-4.8291,few clouds
+Ladario,BR,91.4,40,0,6.91,-19.0047,-57.6017,few clouds
+Papetoai,PF,84.2,65,40,6.91,-17.4961,-149.8729,few clouds
+Tilichiki,RU,11.3,86,28,9.62,60.4667,166.1,few clouds
+Pontes E Lacerda,BR,87.8,49,35,1.99,-15.2261,-59.3353,few clouds
+Greenville,US,69.8,23,1,6.91,35.6127,-77.3663,few clouds
+Kasempa,ZM,66.85,83,45,4.32,-13.4584,25.8338,few clouds
+Tutoia,BR,78.8,94,40,5.75,-2.7619,-42.2744,few clouds
+Itoman,JP,69.8,73,75,10.36,26.1247,127.6694,few clouds
+Mayen,DE,51.01,49,100,6.91,50.3333,7.2167,few clouds
+Bokoro,TD,95.97,11,23,6.87,12.3807,17.0568,few clouds
+Verkhnyaya Inta,RU,35.06,76,100,10.09,65.9811,60.3094,few clouds
+Port Augusta,AU,52.0,81,6,5.75,-32.5,137.7667,few clouds
+Hambantota,LK,78.8,100,40,3.44,6.1241,81.1185,few clouds
+Arcata,US,60.01,87,90,13.8,40.8665,-124.0828,few clouds
+Balaipungut,ID,75.2,94,20,1.63,1.05,101.2833,few clouds
+Sergeyevka,KZ,47.8,49,46,10.29,53.88,67.4158,few clouds
+Kropotkin,RU,57.0,88,1,1.97,45.4375,40.5756,few clouds
+Ayan,RU,30.69,93,100,7.9,56.45,138.1667,few clouds
+Charters Towers,AU,63.43,86,2,7.43,-20.1,146.2667,few clouds
+Ojinaga,MX,72.0,49,1,8.05,29.5667,-104.4167,few clouds
+Gambettola,IT,64.0,88,75,10.36,44.1175,12.3371,few clouds
+Awjilah,LY,93.16,8,0,9.89,29.1081,21.2869,few clouds
+Saravena,CO,85.84,56,72,3.91,6.9538,-71.8752,few clouds
+Dubbo,AU,59.0,88,100,11.5,-32.25,148.6167,few clouds
+North Platte,US,87.8,23,1,13.8,41.1239,-100.7654,few clouds
+Lipari,IT,71.01,68,100,4.0,38.4674,14.954,few clouds
+Falam,MM,60.51,78,3,3.49,22.9167,93.6833,few clouds
+Pangnirtung,CA,44.6,57,75,9.22,66.1451,-65.7125,few clouds
+Muzhi,RU,32.16,98,100,17.0,65.3667,64.6667,few clouds
+Thinadhoo,MV,83.8,67,8,2.8,0.5333,72.9333,few clouds
+Tandil,AR,71.01,46,83,5.99,-37.3217,-59.1332,few clouds
+Isiro,CD,68.56,98,98,3.78,2.7739,27.616,few clouds
+Ottawa,CA,50.0,39,90,13.8,45.4112,-75.6981,few clouds
+Gamba,GA,78.04,91,100,7.14,-2.65,10.0,few clouds
+Ko Samui,TH,85.19,71,25,11.72,9.5357,99.9357,few clouds
+Haines Junction,CA,41.0,52,99,2.3,60.7522,-137.5108,few clouds
+Banepa,NP,60.8,94,40,6.91,27.6298,85.5214,few clouds
+Prainha,BR,79.61,71,100,4.29,-1.8,-53.48,few clouds
+Maiduguri,NG,92.75,7,28,11.01,11.8464,13.1603,few clouds
+Kupang,ID,75.51,82,21,8.12,-10.1667,123.5833,few clouds
+Richards Bay,ZA,63.36,86,27,4.52,-28.783,32.0377,few clouds
+Kearney,US,86.0,19,1,32.21,40.6995,-99.0815,few clouds
+Umm Bab,QA,82.99,69,1,6.91,25.2142,50.8072,few clouds
+Lasa,IT,55.0,100,75,10.36,46.6166,10.7002,few clouds
+Lyaskelya,RU,31.26,46,27,3.02,61.7667,31.0167,few clouds
+Mountain Home,US,71.6,30,40,25.32,43.133,-115.6912,few clouds
+Jiwani,PK,83.03,73,1,11.65,25.05,61.7417,few clouds
+Mpulungu,ZM,72.16,85,100,4.36,-8.7623,31.1141,few clouds
+Naze,JP,61.05,62,0,10.02,28.3667,129.4833,few clouds
+Ulladulla,AU,53.6,100,100,4.88,-35.35,150.4667,few clouds
+Los Llanos De Aridane,ES,69.8,60,75,12.66,28.6585,-17.9182,few clouds
+Saint-Georges,GD,86.0,66,20,25.32,12.0564,-61.7485,few clouds
+Bonfim,BR,88.18,53,93,2.91,3.0833,-59.95,few clouds
+Betong,TH,73.27,97,100,2.15,5.7743,101.0723,few clouds
+La Ligua,CL,66.2,55,0,10.36,-32.4524,-71.2311,few clouds
+Lere,NG,86.72,15,95,4.43,10.387,8.5726,few clouds
+Andra,RU,44.65,90,100,15.21,62.5147,65.8878,few clouds
+Naryan-Mar,RU,32.72,98,100,9.66,67.6713,53.087,few clouds
+Colares,PT,57.99,58,20,13.8,38.7992,-9.4469,few clouds
+Suamico,US,73.4,35,1,18.41,44.6319,-88.0393,few clouds
+Roald,NO,41.0,65,20,17.27,62.5833,6.1333,few clouds
+Verkhoyansk,RU,29.17,80,100,0.51,67.5447,133.385,few clouds
+Bangkalan,ID,82.4,83,20,6.91,-7.0455,112.7351,few clouds
+Ust-Nera,RU,26.83,97,99,2.17,64.5667,143.2,few clouds
+Thohoyandou,ZA,62.2,67,93,10.38,-22.9456,30.485,few clouds
+Geraldton,AU,55.4,58,100,9.22,-28.7667,114.6,few clouds
+Ankara,TR,68.0,48,0,3.87,39.9199,32.8543,few clouds
+Dhidhdhoo,MV,84.54,71,19,5.75,6.8833,73.1,few clouds
+Honningsvag,NO,33.85,72,100,20.51,70.9821,25.9704,few clouds
+Lata,PT,62.01,55,72,5.01,40.1629,-8.3327,few clouds
+Sao Gabriel Da Cachoeira,BR,86.0,62,75,2.3,-0.1303,-67.0892,few clouds
+Ipixuna,BR,84.2,79,75,9.22,-1.7625,-48.8043,few clouds
+Birao,CF,87.87,28,29,5.39,10.2849,22.7882,few clouds
+Mayumba,GA,78.42,90,100,7.2,-3.432,10.6554,few clouds
+Flinders,AU,57.0,90,100,1.99,-34.5833,150.8552,few clouds
+Karakol,KG,47.8,67,100,5.08,42.4907,78.3936,few clouds
+Orsha,BY,45.37,67,100,1.66,54.5153,30.4053,few clouds
+Brae,GB,41.0,81,90,8.05,60.3964,-1.353,few clouds
+Talara,PE,86.0,51,75,14.97,-4.5772,-81.2719,few clouds
+Marienburg,PL,48.99,100,100,6.42,54.0359,19.0266,few clouds

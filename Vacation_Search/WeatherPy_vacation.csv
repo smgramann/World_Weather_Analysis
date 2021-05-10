@@ -1,0 +1,51 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+8,Karratha,AU,79.47,few clouds,-20.7377,116.8463,ibis Styles Karratha
+9,Hilo,US,77.0,few clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+12,Tiarei,PF,84.2,few clouds,-17.5333,-149.3333,Le Rocher de Tahiti
+13,Nhulunbuy,AU,75.2,few clouds,-12.2333,136.7667,East Arnhem Real Estate
+19,Saint-Pierre,RE,75.2,few clouds,-21.3393,55.4781,Lindsey Hôtel
+22,Avarua,CK,78.8,few clouds,-21.2078,-159.775,Paradise Inn
+23,Oranjestad,AW,84.2,few clouds,12.524000000000001,-70.027,Divi Village Golf & Beach Resort
+26,Hithadhoo,MV,84.38,few clouds,-0.6,73.0833,Scoop Guest House
+30,Bambous Virieux,MU,75.0,few clouds,-20.3428,57.7575,Casa Tia Villa
+31,Puerto Ayora,EC,82.4,few clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+33,Rikitea,PF,76.21,few clouds,-23.1203,-134.9692,Pension Maro'i
+38,Bell Ville,AR,78.01,few clouds,-32.6259,-62.6887,Hotel Central
+46,Lubao,PH,80.6,few clouds,14.9167,120.55,Hacienda Gracia
+49,Marawi,PH,75.0,few clouds,7.9986,124.2928,Derogongan Residence
+52,Maceio,BR,80.6,few clouds,-9.6658,-35.7353,Poutur Pousada
+59,Guerrero Negro,MX,75.0,few clouds,27.9769,-114.0611,"Casa Laguna, Bed & Breakfast"
+62,Ransang,PH,78.98,few clouds,8.9603,117.5828,Black and Crystal Sand Campsite
+66,Kapaa,US,78.8,few clouds,22.0752,-159.319,Sheraton Kauai Resort at Coconut Beach
+75,Georgetown,MY,78.8,few clouds,5.4112,100.3354,Cititel Penang
+78,Faanui,PF,80.62,few clouds,-16.4833,-151.75,Bora-Bora Pearl Beach Resort & Spa
+82,Vila Velha,BR,77.0,few clouds,-20.3297,-40.2925,Quality Suites Vila Velha
+87,Atuona,PF,78.66,few clouds,-9.8,-139.0333,Villa Enata
+89,Kloulklubed,PW,78.8,few clouds,7.0419,134.2556,Storyboard Beach Resort
+103,Quatre Cocos,MU,75.0,few clouds,-20.2078,57.7625,Veranda Palmar Beach Hotel
+107,Hilton Head Island,US,75.0,few clouds,32.2163,-80.7526,Disney’s Hilton Head Island Resort
+112,Samarai,PG,79.95,few clouds,-10.6167,150.6667,Nuli Sapi
+115,Butaritari,KI,82.63,few clouds,3.0707,172.7902,Isles Sunset Lodge
+116,Road Town,VG,84.2,few clouds,18.4167,-64.6167,"ZINGARA 76ft Catamaran, full crew-all included"
+117,San Patricio,US,77.0,few clouds,28.017,-97.5169,"Motel 6 Sinton, TX"
+119,Amapa,BR,75.06,few clouds,1.0,-52.0,
+120,Sambava,MG,77.43,few clouds,-14.2667,50.1667,Melrose
+121,La Libertad,EC,82.4,few clouds,-2.2333,-80.9,Playa Canela Hotel Boutique
+125,Biak,ID,76.42,few clouds,-0.9131,122.8766,Penginapan Kim
+129,Buala,SB,78.94,few clouds,-8.145,159.5921,Maringe Lagoon Lodge
+130,Santarem,BR,84.2,few clouds,-2.4431,-54.7083,Ecotur Lodge
+135,Waingapu,ID,77.85,few clouds,-9.6567,120.2641,Pondok Wisata Elim
+137,Port Blair,IN,82.98,few clouds,11.6667,92.75,Welcomhotel Bay Island Port Blair
+141,Chapar,IN,78.33,few clouds,26.2667,90.4667,Doctor's Quarter
+143,Gazanjyk,TM,75.79,few clouds,39.2446,55.5154,Railway motel
+157,Touros,BR,84.2,few clouds,-5.1989,-35.4608,INN NEW HORIZON
+162,Sangamner,IN,81.21,few clouds,19.5667,74.2167,Government Rest House
+168,Port-Gentil,GA,84.2,few clouds,-0.7193,8.7815,Fengshui Residence
+171,Wilmington Island,US,77.0,few clouds,32.0036,-80.9737,Breezeway Studio Manor LLC
+185,Vaini,TO,75.2,few clouds,-21.2,-175.2,Keleti Beach Resort
+187,Maumere,ID,79.0,few clouds,-8.6199,122.2111,Sylvia Hotel
+191,Bengkulu,ID,75.51,few clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+192,Saint-Philippe,RE,75.2,few clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+202,Qui Nhon,VN,76.84,few clouds,13.7667,109.2333,Hoang Yen Canary Hotel
+207,Belawan,ID,77.0,few clouds,3.7755,98.6832,Lilik Hidayat Pulungan
+208,Wanning,CN,77.9,few clouds,18.8003,110.3967,Paradise Hotel
